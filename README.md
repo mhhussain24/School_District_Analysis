@@ -2,7 +2,7 @@
 Python 3.7.11
 
 ## Project Overview
-I have been asked to do an analysis given a school distict data containing academic dishonesty. In order to conduct analysis on this data, which contains altered results for grade nine students at Thomas High School, I will replace math and reading scores with NaNs where necessary. I will then explain how this changes the results of the overall analysis. My analysis prior to replacing ninth grade scores at Thomas High School is shows in PyCitySchools.ipynb. The analysis after replacements is shows in PyCitySchools_Challenge.ipynb.
+I have been asked to do an analysis given a school distict data containing academic dishonesty. In order to conduct analysis on this data, which contains altered results for grade nine students at Thomas High School, I will replace math and reading scores with NaNs where necessary. I will then explain how this changes the results of the overall analysis. My analysis prior to replacing ninth grade scores at Thomas High School is shown in "PyCitySchools.ipynb." The analysis after replacements is shows in "PyCitySchools_Challenge.ipynb."
 
 ## Results
 
